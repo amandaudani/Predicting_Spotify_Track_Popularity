@@ -78,6 +78,4 @@ The model effectively predicts song popularity on Spotify based on given feature
 
 Possible future enhancements
 
-Using a larger dataset for improved model generalization.
-Integrating advanced deep learning methods for potentially better predictive performance.
-Applying NLP techniques on song lyrics to analyze lyrical content's impact on popularity.
+
